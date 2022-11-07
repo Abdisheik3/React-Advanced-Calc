@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "caniuse-lite": "^1.0.30001423",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "^3.3.0"
